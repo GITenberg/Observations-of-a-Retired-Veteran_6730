@@ -1,0 +1,26 @@
+_repo: Observations-of-a-Retired-Veteran_6730
+creator:
+  author:
+    agent_name: Tinsley, Henry C.
+    alias: Boyzy, P.
+    birthdate: 1834
+    deathdate: 1902
+    gutenberg_agent_id: '2177'
+    url: http://www.gutenberg.org/2009/agents/2177
+description: These essays are from a newspaper column which were contributed through
+  a series of years to the Vindicator, a weekly newspaper of Staunton, Virginia, by
+  it's editor (Henry C. Tinsley), under the pen-name of "P. Boyzy". The compiler of
+  these essays was Armistead C. Gordon.
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6730'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American essays -- 19th century'
+- !lcc 'PS'
+title: Observations of a Retired Veteran
+url: http://www.gutenberg.org/ebooks/6730
