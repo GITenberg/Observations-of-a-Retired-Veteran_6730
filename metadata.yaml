@@ -1,4 +1,8 @@
 _repo: Observations-of-a-Retired-Veteran_6730
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Tinsley, Henry C.
@@ -11,6 +15,8 @@ description: These essays are from a newspaper column which were contributed thr
   a series of years to the Vindicator, a weekly newspaper of Staunton, Virginia, by
   it's editor (Henry C. Tinsley), under the pen-name of "P. Boyzy". The compiler of
   these essays was Armistead C. Gordon.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6730#Observations-of-a-Retired-Veteran
 gutenberg_issued: '2004-10-01'
 gutenberg_type: Text
 identifiers:
